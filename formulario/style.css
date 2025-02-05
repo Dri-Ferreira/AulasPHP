@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffcc; /* Amarelo claro */
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 0 0 10px #999;
+}
+
+a {
+    color: #006400;
+    text-decoration: none;
+    font-weight: bold;
+}
